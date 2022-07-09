@@ -1,0 +1,201 @@
+Time=  0,clk=0,cs=1,wr_rd_a=x,addr_a= x,wdata_a=  x,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=  5,clk=1,cs=1,wr_rd_a=x,addr_a= x,wdata_a=  x,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 10,clk=0,cs=1,wr_rd_a=1,addr_a= x,wdata_a=  x,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 15,clk=1,cs=1,wr_rd_a=1,addr_a= 0,wdata_a= 36,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 20,clk=0,cs=1,wr_rd_a=1,addr_a= 0,wdata_a= 36,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 25,clk=1,cs=1,wr_rd_a=1,addr_a= 1,wdata_a=129,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 30,clk=0,cs=1,wr_rd_a=1,addr_a= 1,wdata_a=129,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 35,clk=1,cs=1,wr_rd_a=1,addr_a= 2,wdata_a=  9,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 40,clk=0,cs=1,wr_rd_a=1,addr_a= 2,wdata_a=  9,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 45,clk=1,cs=1,wr_rd_a=1,addr_a= 3,wdata_a= 99,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 50,clk=0,cs=1,wr_rd_a=1,addr_a= 3,wdata_a= 99,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 55,clk=1,cs=1,wr_rd_a=1,addr_a= 4,wdata_a= 13,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 60,clk=0,cs=1,wr_rd_a=1,addr_a= 4,wdata_a= 13,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 65,clk=1,cs=1,wr_rd_a=1,addr_a= 5,wdata_a=141,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 70,clk=0,cs=1,wr_rd_a=1,addr_a= 5,wdata_a=141,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 75,clk=1,cs=1,wr_rd_a=1,addr_a= 6,wdata_a=101,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 80,clk=0,cs=1,wr_rd_a=1,addr_a= 6,wdata_a=101,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 85,clk=1,cs=1,wr_rd_a=1,addr_a= 7,wdata_a= 18,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 90,clk=0,cs=1,wr_rd_a=1,addr_a= 7,wdata_a= 18,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time= 95,clk=1,cs=1,wr_rd_a=1,addr_a= 8,wdata_a=  1,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=100,clk=0,cs=1,wr_rd_a=1,addr_a= 8,wdata_a=  1,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=105,clk=1,cs=1,wr_rd_a=1,addr_a= 9,wdata_a= 13,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=110,clk=0,cs=1,wr_rd_a=1,addr_a= 9,wdata_a= 13,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=115,clk=1,cs=1,wr_rd_a=1,addr_a=10,wdata_a=118,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=120,clk=0,cs=1,wr_rd_a=1,addr_a=10,wdata_a=118,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=125,clk=1,cs=1,wr_rd_a=1,addr_a=11,wdata_a= 61,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=130,clk=0,cs=1,wr_rd_a=1,addr_a=11,wdata_a= 61,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=135,clk=1,cs=1,wr_rd_a=1,addr_a=12,wdata_a=237,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=140,clk=0,cs=1,wr_rd_a=1,addr_a=12,wdata_a=237,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=145,clk=1,cs=1,wr_rd_a=1,addr_a=13,wdata_a=140,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=150,clk=0,cs=1,wr_rd_a=1,addr_a=13,wdata_a=140,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=155,clk=1,cs=1,wr_rd_a=1,addr_a=14,wdata_a=249,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=160,clk=0,cs=1,wr_rd_a=1,addr_a=14,wdata_a=249,rdata_a=  x,wr_rd_b=x,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=165,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=170,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= x,wdata_b=  x,rdata_b=  x
+Time=175,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 0,wdata_b=  x,rdata_b=  x
+Time=180,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 0,wdata_b=  x,rdata_b=  x
+Time=185,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 1,wdata_b=  x,rdata_b=  x
+Time=190,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 1,wdata_b=  x,rdata_b=  x
+Time=195,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 2,wdata_b=  x,rdata_b=  x
+Time=200,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 2,wdata_b=  x,rdata_b=  x
+Time=205,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 3,wdata_b=  x,rdata_b=  x
+Time=210,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 3,wdata_b=  x,rdata_b=  x
+Time=215,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 4,wdata_b=  x,rdata_b=  x
+Time=220,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 4,wdata_b=  x,rdata_b=  x
+Time=225,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 5,wdata_b=  x,rdata_b=  x
+Time=230,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 5,wdata_b=  x,rdata_b=  x
+Time=235,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 6,wdata_b=  x,rdata_b=  x
+Time=240,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 6,wdata_b=  x,rdata_b=  x
+Time=245,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 7,wdata_b=  x,rdata_b=  x
+Time=250,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 7,wdata_b=  x,rdata_b=  x
+Time=255,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 8,wdata_b=  x,rdata_b=  x
+Time=260,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 8,wdata_b=  x,rdata_b=  x
+Time=265,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 9,wdata_b=  x,rdata_b=  x
+Time=270,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b= 9,wdata_b=  x,rdata_b=  x
+Time=275,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=10,wdata_b=  x,rdata_b=  x
+Time=280,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=10,wdata_b=  x,rdata_b=  x
+Time=285,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=11,wdata_b=  x,rdata_b=  x
+Time=290,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=11,wdata_b=  x,rdata_b=  x
+Time=295,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=12,wdata_b=  x,rdata_b=  x
+Time=300,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=12,wdata_b=  x,rdata_b=  x
+Time=305,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=13,wdata_b=  x,rdata_b=  x
+Time=310,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=13,wdata_b=  x,rdata_b=  x
+Time=315,clk=1,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=14,wdata_b=  x,rdata_b=  x
+Time=320,clk=0,cs=1,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=14,wdata_b=  x,rdata_b=  x
+Time=325,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=  x
+Time=330,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a=198,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=  x
+Time=335,clk=1,cs=0,wr_rd_a=1,addr_a= 0,wdata_a=197,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=340,clk=0,cs=0,wr_rd_a=1,addr_a= 0,wdata_a=197,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=345,clk=1,cs=0,wr_rd_a=1,addr_a= 1,wdata_a=170,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=350,clk=0,cs=0,wr_rd_a=1,addr_a= 1,wdata_a=170,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=355,clk=1,cs=0,wr_rd_a=1,addr_a= 2,wdata_a=229,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=360,clk=0,cs=0,wr_rd_a=1,addr_a= 2,wdata_a=229,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=365,clk=1,cs=0,wr_rd_a=1,addr_a= 3,wdata_a=119,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=370,clk=0,cs=0,wr_rd_a=1,addr_a= 3,wdata_a=119,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=375,clk=1,cs=0,wr_rd_a=1,addr_a= 4,wdata_a= 18,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=380,clk=0,cs=0,wr_rd_a=1,addr_a= 4,wdata_a= 18,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=385,clk=1,cs=0,wr_rd_a=1,addr_a= 5,wdata_a=143,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=390,clk=0,cs=0,wr_rd_a=1,addr_a= 5,wdata_a=143,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=395,clk=1,cs=0,wr_rd_a=1,addr_a= 6,wdata_a=242,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=400,clk=0,cs=0,wr_rd_a=1,addr_a= 6,wdata_a=242,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=405,clk=1,cs=0,wr_rd_a=1,addr_a= 7,wdata_a=206,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=410,clk=0,cs=0,wr_rd_a=1,addr_a= 7,wdata_a=206,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=415,clk=1,cs=0,wr_rd_a=1,addr_a= 8,wdata_a=232,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=420,clk=0,cs=0,wr_rd_a=1,addr_a= 8,wdata_a=232,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=425,clk=1,cs=0,wr_rd_a=1,addr_a= 9,wdata_a=197,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=430,clk=0,cs=0,wr_rd_a=1,addr_a= 9,wdata_a=197,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=435,clk=1,cs=0,wr_rd_a=1,addr_a=10,wdata_a= 92,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=440,clk=0,cs=0,wr_rd_a=1,addr_a=10,wdata_a= 92,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=445,clk=1,cs=0,wr_rd_a=1,addr_a=11,wdata_a=189,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=450,clk=0,cs=0,wr_rd_a=1,addr_a=11,wdata_a=189,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=455,clk=1,cs=0,wr_rd_a=1,addr_a=12,wdata_a= 45,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=460,clk=0,cs=0,wr_rd_a=1,addr_a=12,wdata_a= 45,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=465,clk=1,cs=0,wr_rd_a=1,addr_a=13,wdata_a=101,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=470,clk=0,cs=0,wr_rd_a=1,addr_a=13,wdata_a=101,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=475,clk=1,cs=0,wr_rd_a=1,addr_a=14,wdata_a= 99,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=480,clk=0,cs=0,wr_rd_a=1,addr_a=14,wdata_a= 99,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=485,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=490,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b=198
+Time=495,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 0,wdata_b=  x,rdata_b=197
+Time=500,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 0,wdata_b=  x,rdata_b=197
+Time=505,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 1,wdata_b=  x,rdata_b=170
+Time=510,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 1,wdata_b=  x,rdata_b=170
+Time=515,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 2,wdata_b=  x,rdata_b=229
+Time=520,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 2,wdata_b=  x,rdata_b=229
+Time=525,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 3,wdata_b=  x,rdata_b=119
+Time=530,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 3,wdata_b=  x,rdata_b=119
+Time=535,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 4,wdata_b=  x,rdata_b= 18
+Time=540,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 4,wdata_b=  x,rdata_b= 18
+Time=545,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 5,wdata_b=  x,rdata_b=143
+Time=550,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 5,wdata_b=  x,rdata_b=143
+Time=555,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 6,wdata_b=  x,rdata_b=242
+Time=560,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 6,wdata_b=  x,rdata_b=242
+Time=565,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 7,wdata_b=  x,rdata_b=206
+Time=570,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 7,wdata_b=  x,rdata_b=206
+Time=575,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 8,wdata_b=  x,rdata_b=232
+Time=580,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 8,wdata_b=  x,rdata_b=232
+Time=585,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 9,wdata_b=  x,rdata_b=197
+Time=590,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b= 9,wdata_b=  x,rdata_b=197
+Time=595,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=10,wdata_b=  x,rdata_b= 92
+Time=600,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=10,wdata_b=  x,rdata_b= 92
+Time=605,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=11,wdata_b=  x,rdata_b=189
+Time=610,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=11,wdata_b=  x,rdata_b=189
+Time=615,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=12,wdata_b=  x,rdata_b= 45
+Time=620,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=12,wdata_b=  x,rdata_b= 45
+Time=625,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=13,wdata_b=  x,rdata_b=101
+Time=630,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=13,wdata_b=  x,rdata_b=101
+Time=635,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=14,wdata_b=  x,rdata_b= 99
+Time=640,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=14,wdata_b=  x,rdata_b= 99
+Time=645,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b= 10
+Time=650,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=0,addr_b=15,wdata_b=  x,rdata_b= 10
+Time=655,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 0,wdata_b=128,rdata_b= 10
+Time=660,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 0,wdata_b=128,rdata_b= 10
+Time=665,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 1,wdata_b= 32,rdata_b= 10
+Time=670,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 1,wdata_b= 32,rdata_b= 10
+Time=675,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 2,wdata_b=170,rdata_b= 10
+Time=680,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 2,wdata_b=170,rdata_b= 10
+Time=685,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 3,wdata_b=157,rdata_b= 10
+Time=690,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 3,wdata_b=157,rdata_b= 10
+Time=695,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 4,wdata_b=150,rdata_b= 10
+Time=700,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 4,wdata_b=150,rdata_b= 10
+Time=705,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 5,wdata_b= 19,rdata_b= 10
+Time=710,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 5,wdata_b= 19,rdata_b= 10
+Time=715,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 6,wdata_b= 13,rdata_b= 10
+Time=720,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 6,wdata_b= 13,rdata_b= 10
+Time=725,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 7,wdata_b= 83,rdata_b= 10
+Time=730,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 7,wdata_b= 83,rdata_b= 10
+Time=735,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 8,wdata_b=107,rdata_b= 10
+Time=740,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 8,wdata_b=107,rdata_b= 10
+Time=745,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 9,wdata_b=213,rdata_b= 10
+Time=750,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b= 9,wdata_b=213,rdata_b= 10
+Time=755,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=10,wdata_b=  2,rdata_b= 10
+Time=760,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=10,wdata_b=  2,rdata_b= 10
+Time=765,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=11,wdata_b=174,rdata_b= 10
+Time=770,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=11,wdata_b=174,rdata_b= 10
+Time=775,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=12,wdata_b= 29,rdata_b= 10
+Time=780,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=12,wdata_b= 29,rdata_b= 10
+Time=785,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=13,wdata_b=207,rdata_b= 10
+Time=790,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=13,wdata_b=207,rdata_b= 10
+Time=795,clk=1,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=14,wdata_b= 35,rdata_b= 10
+Time=800,clk=0,cs=0,wr_rd_a=1,addr_a=15,wdata_a= 10,rdata_a=  x,wr_rd_b=1,addr_b=14,wdata_b= 35,rdata_b= 10
+Time=805,clk=1,cs=0,wr_rd_a=0,addr_a=15,wdata_a= 10,rdata_a= 10,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=810,clk=0,cs=0,wr_rd_a=0,addr_a=15,wdata_a= 10,rdata_a= 10,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=815,clk=1,cs=0,wr_rd_a=0,addr_a= 0,wdata_a= 10,rdata_a=128,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=820,clk=0,cs=0,wr_rd_a=0,addr_a= 0,wdata_a= 10,rdata_a=128,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=825,clk=1,cs=0,wr_rd_a=0,addr_a= 1,wdata_a= 10,rdata_a= 32,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=830,clk=0,cs=0,wr_rd_a=0,addr_a= 1,wdata_a= 10,rdata_a= 32,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=835,clk=1,cs=0,wr_rd_a=0,addr_a= 2,wdata_a= 10,rdata_a=170,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=840,clk=0,cs=0,wr_rd_a=0,addr_a= 2,wdata_a= 10,rdata_a=170,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=845,clk=1,cs=0,wr_rd_a=0,addr_a= 3,wdata_a= 10,rdata_a=157,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=850,clk=0,cs=0,wr_rd_a=0,addr_a= 3,wdata_a= 10,rdata_a=157,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=855,clk=1,cs=0,wr_rd_a=0,addr_a= 4,wdata_a= 10,rdata_a=150,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=860,clk=0,cs=0,wr_rd_a=0,addr_a= 4,wdata_a= 10,rdata_a=150,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=865,clk=1,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 10,rdata_a= 19,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=870,clk=0,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 10,rdata_a= 19,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=875,clk=1,cs=0,wr_rd_a=0,addr_a= 6,wdata_a= 10,rdata_a= 13,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=880,clk=0,cs=0,wr_rd_a=0,addr_a= 6,wdata_a= 10,rdata_a= 13,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=885,clk=1,cs=0,wr_rd_a=0,addr_a= 7,wdata_a= 10,rdata_a= 83,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=890,clk=0,cs=0,wr_rd_a=0,addr_a= 7,wdata_a= 10,rdata_a= 83,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=895,clk=1,cs=0,wr_rd_a=0,addr_a= 8,wdata_a= 10,rdata_a=107,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=900,clk=0,cs=0,wr_rd_a=0,addr_a= 8,wdata_a= 10,rdata_a=107,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=905,clk=1,cs=0,wr_rd_a=0,addr_a= 9,wdata_a= 10,rdata_a=213,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=910,clk=0,cs=0,wr_rd_a=0,addr_a= 9,wdata_a= 10,rdata_a=213,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=915,clk=1,cs=0,wr_rd_a=0,addr_a=10,wdata_a= 10,rdata_a=  2,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=920,clk=0,cs=0,wr_rd_a=0,addr_a=10,wdata_a= 10,rdata_a=  2,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=925,clk=1,cs=0,wr_rd_a=0,addr_a=11,wdata_a= 10,rdata_a=174,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=930,clk=0,cs=0,wr_rd_a=0,addr_a=11,wdata_a= 10,rdata_a=174,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=935,clk=1,cs=0,wr_rd_a=0,addr_a=12,wdata_a= 10,rdata_a= 29,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=940,clk=0,cs=0,wr_rd_a=0,addr_a=12,wdata_a= 10,rdata_a= 29,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=945,clk=1,cs=0,wr_rd_a=0,addr_a=13,wdata_a= 10,rdata_a=207,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=950,clk=0,cs=0,wr_rd_a=0,addr_a=13,wdata_a= 10,rdata_a=207,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=955,clk=1,cs=0,wr_rd_a=0,addr_a=14,wdata_a= 10,rdata_a= 35,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=960,clk=0,cs=0,wr_rd_a=0,addr_a=14,wdata_a= 10,rdata_a= 35,wr_rd_b=1,addr_b=15,wdata_b= 10,rdata_b= 10
+Time=965,clk=1,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 10,rdata_a= 19,wr_rd_b=0,addr_b= 5,wdata_b= 10,rdata_b= 19
+Time=970,clk=0,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 10,rdata_a= 19,wr_rd_b=0,addr_b= 5,wdata_b= 10,rdata_b= 19
+Time=975,clk=1,cs=0,wr_rd_a=1,addr_a= 5,wdata_a= 77,rdata_a= 19,wr_rd_b=1,addr_b= 5,wdata_b= 98,rdata_b= 19
+Time=980,clk=0,cs=0,wr_rd_a=1,addr_a= 5,wdata_a= 77,rdata_a= 19,wr_rd_b=1,addr_b= 5,wdata_b= 98,rdata_b= 19
+Time=985,clk=1,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 77,rdata_a= 98,wr_rd_b=0,addr_b= 5,wdata_b= 98,rdata_b= 98
+Time=990,clk=0,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 77,rdata_a= 98,wr_rd_b=0,addr_b= 5,wdata_b= 98,rdata_b= 98
+Time=995,clk=1,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 77,rdata_a= 98,wr_rd_b=0,addr_b= 5,wdata_b= 98,rdata_b= 98
+Time=1000,clk=0,cs=0,wr_rd_a=0,addr_a= 5,wdata_a= 77,rdata_a= 98,wr_rd_b=0,addr_b= 5,wdata_b= 98,rdata_b= 98
